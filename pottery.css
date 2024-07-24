@@ -1,0 +1,112 @@
+body{
+    background-image: url(Pottery/img.webp);
+    background-color: rgba(0,0,0,0.7);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    width: 100%;
+    background-blend-mode: darken;
+}
+
+.h1{
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(255, 106, 0);
+    font-size: 5em;
+}
+
+.p1{
+    color: white;
+    text-align: left;
+    font-size: 30px;
+    font-family: 'Times New Roman';
+}
+
+.p2{
+    color: white;
+    text-align: left;
+    font-size: 30px;
+    font-family: 'Times New Roman';
+
+}
+.p3{
+    color: white;
+    text-align: left;
+    font-size: 30px;
+    font-family: 'Times New Roman';
+
+}
+
+.p4{
+    color: white;
+    text-align: left;
+    font-size: 30px;
+    font-family: 'Times New Roman';
+}
+.p5{
+    color: white;
+    text-align: left;
+    font-size: 30px;
+    font-family: 'Times New Roman';
+
+}
+
+.wrapper{
+    margin: 150px auto;
+    width: 70%;
+}
+.wrapper1{
+    margin: 150px auto;
+    width: 70%;
+}
+.wrapper2{
+    margin: 150px auto;
+    width: 70%;
+}
+.img1{
+    width: 400px;
+    height: 300px;
+    float: right;
+    border: 3px solid wheat;
+	border-radius: 20px;
+}
+.img1:hover{
+	filter: brightness(120%);
+	 -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+  
+}
+	
+.wrapper2{
+    margin: 150px auto;
+    width: 70%;
+}
+
+.img2{
+    width: 200px;
+    height: 300px;
+    float: right;
+    border: 3px solid wheat;
+    margin-left: 10px;
+	border-radius:15px;
+
+}
+
+.img4{
+    width: 400px;
+    height: 300px;
+    float: right;
+    border: 3px solid wheat;
+	padding:10px;
+	border-radius:50px 20px;
+
+}
+.a{
+    color: blue;
+    font-size: 30px
+}
+.img4:hover{
+  -webkit-transform: scale(1.3, 1.3);
+  transform: scale(1.3, 1.3);
+}

@@ -1,0 +1,90 @@
+body{
+    background-image: url(Handloom/img1.avif);
+    background-color: rgba(0,0,0,0.7);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    width: 100%;
+    background-blend-mode: darken;
+    
+}
+
+
+
+.h1{
+    
+        color:white;
+        text-align: center;
+        font-style: italic;
+        text-decoration: underline;
+        font-size: 5em;
+        color: yellow;
+        
+}
+
+
+.p1{
+    color: white;
+    text-align: left;
+    font-size: 24px;
+    font-family: 'Times New Roman';
+}
+
+.p1-1{
+    color: white;
+    text-align: left;
+    font-size: 24px;
+    font-family: 'Times New Roman';
+
+}
+
+.p1-2{
+    color: white;
+    text-align: left;
+    font-size: 24px;
+    font-family: 'Times New Roman';
+
+}
+
+
+
+.img2{
+    height:400px;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+	border:4px solid wheat;
+}
+
+.img3{
+    height:400px;
+    width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+	border:4px solid wheat;
+	border-radius:30px;
+  
+
+}
+
+
+
+.vid1{
+    width: 600px;
+    height: 300px;
+    margin-left: 50px;  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;  
+
+}
+
+
+  
+
